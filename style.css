@@ -85,7 +85,7 @@ header.coluna p{
 
 /* FOOTER */
 footer{
-    background-color: blueviolet;
+    background-color: red;
 }
 footer nav .info-contato{
     display:grid;
